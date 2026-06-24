@@ -47,21 +47,23 @@ YouTube-transkripsjoner er litt mer pirkete å få tak i enn artikkeltekst, derf
 
 **Leveranse:** én tilpasning du faktisk vil bruke, som former hvordan agenten jobber for deg. To gode former, velg én (eller begge om du har tid):
 
-### Form A: en "skill" du lager og laster opp
+### Form A: en "skill" du lager
 
-En skill er en liten instruks Cowork laster inn når den passer. Be agenten hjelpe deg:
+En skill er en liten instruks Cowork laster inn når den passer. Du trenger bare å be om den, så gjør `skill-creator` resten:
 
-> *"Bruk `skill-creator` til å hjelpe meg lage en liten skill. Bruk `brainstorming` hvis vi trenger å tenke gjennom hva den skal gjøre."*
+> *"Bruk `skill-creator` til å lage en liten skill som [gjør X]. Bruk `brainstorming` hvis vi trenger å tenke gjennom hva den skal gjøre."*
+
+`skill-creator` skriver skillen og setter den opp for deg, du trenger ikke pakke noen ZIP eller laste opp manuelt.
 
 Eksempel som funker godt for ikke-kodere: **`devils-advocate`**, en skeptisk tenkepartner.
 - Trigger: "spill djevelens advokat", "finn hullene i dette", "hva er galt med denne planen".
 - Oppførsel: bytt fra hjelpsom assistent til streng, men konstruktiv skeptiker. List de sterkeste motargumentene, de skjulte antakelsene, og det du ikke vet. Avslutt med ett ærlig råd: "Hadde jeg vært deg, ville jeg stresstestet X først."
 
-Når den er laget: pakk skill-mappen som en ZIP, last den opp under **Customize ▸ Skills**, skru den på, og test at den trigger på en naturlig setning.
+Når den er laget: test at den trigger på en naturlig setning i en ny chat.
 
-### Form B: en lagret instruks (enklest)
+### Form B: en lagret instruks (enda enklere)
 
-Vil du slippe ZIP-runden: legg tilpasningen som en **instruks på Cowork-prosjektet** i stedet (**Instructions**). Samme effekt, formet til denne kunnskapsbasen. For eksempel en fast måte å oppsummere møtenotater på, eller en personlig tone.
+Vil du holde det aller enklest: legg tilpasningen som en **instruks på Cowork-prosjektet** i stedet (**Instructions**). Samme effekt, formet til denne kunnskapsbasen. For eksempel en fast måte å oppsummere møtenotater på, eller en personlig tone.
 
 ### Sånn ser "ferdig" ut
 
