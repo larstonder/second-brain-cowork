@@ -13,7 +13,7 @@
 Cowork does not auto-discover skills from the vault folder, so they are uploaded once as ZIPs (see `skills-to-upload/`). Tick off what you have uploaded and turned on:
 
 - [ ] `obsidian-vault` (core conventions, recommended)
-- [ ] `youtube-to-note` (for Challenge 1)
+- [ ] `capture-to-note` (for Challenge 1)
 - [ ] `skill-creator` (for Challenge 2, optional)
 - [ ] `brainstorming` (for Challenge 2, optional)
 - [ ] anything you built yourself in Challenge 2

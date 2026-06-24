@@ -8,7 +8,7 @@ Cowork plukker dem **ikke** opp automatisk fra vault-mappen, så du legger dem i
 2. Trykk **+**, velg **last opp en skill (ZIP)**.
 3. Last opp filene under, og skru hver av dem **på**:
    - `obsidian-vault.zip` , konvensjonene (anbefalt, last opp denne)
-   - `youtube-to-note.zip` , til øvelse 1
+   - `capture-to-note.zip` , til øvelse 1
    - `skill-creator.zip` , til øvelse 2 (valgfritt)
    - `brainstorming.zip` , til øvelse 2 (valgfritt)
 

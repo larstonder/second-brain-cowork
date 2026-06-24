@@ -42,7 +42,7 @@ Then have them look at the note in Obsidian: the frontmatter shows up as a **Pro
 
 Point the participant at `docs/06-challenges.md`:
 
-- **Challenge 1, Capture:** turn a YouTube video into a structured `Learning` note.
+- **Challenge 1, Capture:** turn an article (or any pasted text; a YouTube transcript optionally) into a structured `Learning` note.
 - **Challenge 2, Customize:** make one tilpasning of your own (a small skill or a saved instruction).
 
 The crew will call time between challenges.

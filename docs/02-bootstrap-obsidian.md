@@ -54,7 +54,7 @@ Dette er den ene tingen som er annerledes i Cowork enn i Claude Code: **Cowork p
 2. Trykk **+**, velg **last opp en skill (ZIP)**.
 3. Last opp filene fra `skills-to-upload/` i startpakken:
    - `obsidian-vault.zip` (konvensjonene, anbefalt)
-   - `youtube-to-note.zip` (brukes i øvelse 1)
+   - `capture-to-note.zip` (brukes i øvelse 1)
    - `skill-creator.zip` og `brainstorming.zip` (valgfritt, til øvelse 2)
 4. Skru hver av dem **på**.
 

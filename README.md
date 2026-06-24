@@ -16,7 +16,7 @@ Dette er en **startpakke**, ikke en ferdig app. Du laster den ned, peker Claude 
 1. **Last ned startpakken.** Trykk den grønne **Code**-knappen øverst på denne siden, så **Download ZIP**. Pakk ut zip-filen et sted du finner igjen, for eksempel i Dokumenter.
 2. **Åpne vault-en i Obsidian.** Start Obsidian, velg **Open folder as vault**, og pek på mappen `starter-vault` inne i det du pakket ut. Nå ser du mappene `Learning`, `Meetings`, `Notes` og så videre.
 3. **Lag et Cowork-prosjekt på samme mappe.** Åpne Claude desktop-appen, gå til **Cowork**, lag et nytt **prosjekt**, og gi det tilgang til den samme `starter-vault`-mappen.
-4. **Last opp ferdige ferdigheter ("skills").** Cowork plukker ikke opp ferdigheter automatisk fra mappen slik Claude Code gjør. Gå til **Customize ▸ Skills**, og last opp zip-filene som ligger i `skills-to-upload/` i startpakken (minst `obsidian-vault`; legg til `youtube-to-note` for øvelse 1). Skru dem på.
+4. **Last opp ferdige ferdigheter ("skills").** Cowork plukker ikke opp ferdigheter automatisk fra mappen slik Claude Code gjør. Gå til **Customize ▸ Skills**, og last opp zip-filene som ligger i `skills-to-upload/` i startpakken (minst `obsidian-vault`; legg til `capture-to-note` for øvelse 1). Skru dem på.
 5. **Si fra til agenten:** *"Les `START_HERE.md` og hjelp meg i gang."* Resten tar agenten seg av.
 
 Detaljert oppsett steg for steg: se [`docs/02-bootstrap-obsidian.md`](docs/02-bootstrap-obsidian.md).

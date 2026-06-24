@@ -4,37 +4,38 @@
 
 ---
 
-## Øvelse 1: Fang en YouTube-video inn i kunnskapsbasen
+## Øvelse 1: Fang en artikkel inn i kunnskapsbasen
 
 **Leveranse:** ett nytt notat i `Learning/` med frontmatter, ekte innhold (sammendrag + nøkkelpunkter + et "Slik bruker jeg dette"-avsnitt), og minst én ekte `[[lenke]]` til noe beslektet. Kvaliteten på lenken betyr mer enn antallet.
 
 ### Slik gjør du det (uten terminal)
 
-Cowork kan ikke laste ned video selv slik en koder ville gjort. Den enkle veien for ikke-kodere er å lime inn teksten:
+Vi tar utgangspunkt i en **artikkel**, fordi tekst på en nettside alltid lar seg kopiere. Ingen nedlasting, ingen oppsett.
 
-1. **Velg en video.** 5 til 20 minutter, noe du faktisk vil huske. Trenger du en demo-video å følge med på: spør crewet om dagens forslag.
-2. **Hent transkripsjonen fra YouTube.** Under videoen: trykk **... (mer) ▸ Vis transkripsjon** (eng: *Show transcript*). Marker teksten og kopier den. (Vil du slippe tidsstemplene: skru dem av i transkripsjons-panelet først.)
-3. **Lim den inn i Cowork** sammen med lenken til videoen, og be om en personlig uthenting. For eksempel:
-   > *"Her er transkripsjonen av denne videoen [lim inn lenke]. Trekk ut det viktigste for meg som [din rolle] som akkurat nå er opptatt av [ditt fokus], og lag et Learning-notat."*
+1. **Velg noe du faktisk vil huske.** En artikkel, et nyhetsbrev, en lang e-post, et blogginnlegg.
+2. **Få teksten inn i Cowork.** Enten:
+   - **lim inn teksten:** åpne siden, merk alt (Cmd/Ctrl+A), kopier, og lim inn i Cowork, eller
+   - **gi Cowork lenken** og be den lese siden. Klarer den ikke å hente den, faller du tilbake på å lime inn teksten.
+3. **Be om en personlig uthenting.** For eksempel:
+   > *"Her er en artikkel [lim inn tekst eller lenke]. Trekk ut det viktigste for meg som [din rolle] som akkurat nå er opptatt av [ditt fokus], og lag et Learning-notat."*
 
    Personaliseringen er poenget: den gjør et generisk sammendrag til noe du faktisk leser igjen.
 4. **La agenten skrive notatet** i `Learning/` med malen `Templates/Learning.md`. Sjekk at det har:
-   - riktig frontmatter (`type: learning`, dagens dato, `source:` med lenken, `author:` med kanalnavn, `status: draft`),
+   - riktig frontmatter (`type: learning`, dagens dato, `source:` med lenken, `author:` med kilde/forfatter, `status: draft`),
    - minst én ekte `[[lenke]]`, og ikke flere enn det som faktisk henger sammen,
    - et "Slik bruker jeg dette"-avsnitt som er konkret, ikke generisk.
 5. **Har du et eldre notat som faktisk hører sammen**, legg til en lenke begge veier. Er vault-en tom eller ingenting hører ekte sammen, hopp over. En påtvunget lenke er bare støy.
 
-> Bruker du `youtube-to-note`-ferdigheten du lastet opp i oppsettet, gjenkjenner den at du limer inn en transkripsjon og følger samme flyt automatisk.
+> `capture-to-note`-ferdigheten du lastet opp i oppsettet kjenner igjen både innlimt tekst og en lenke, og følger flyten over automatisk.
 
-### Level-up (valgfritt): la agenten hente transkripsjonen selv via MCP
+### Vil du heller bruke en YouTube-video? (valgfritt)
 
-Vil du slippe paste-runden, kan du gi Cowork en **connector** som henter YouTube-transkripsjoner for deg. Da limer du bare inn lenken til videoen, så gjør agenten resten.
+Det går fint, framgangsmåten er den samme, du trenger bare transkripsjonen som tekst:
 
-1. I Cowork: **Customize ▸ Connectors ▸ +**.
-2. Lim inn navn og URL til en hosted YouTube-transkripsjon-MCP (crewet deler en testet URL på workshopen).
-3. Lagre, og koble til.
+1. Under videoen på YouTube: **... (mer) ▸ Vis transkripsjon** (*Show transcript*). Marker og kopier. (En nettleser-utvidelse som henter transkripsjoner funker også.)
+2. Lim transkripsjonen inn i Cowork sammen med lenken, og be om samme personlige uthenting som over.
 
-Dette er en fin måte å se hva en "connector" (MCP) faktisk er: agenten får en ny evne uten at du installerer noe. Men paste-flyten over funker alltid, så bruk den hvis connectoren kludrer.
+YouTube-transkripsjoner er litt mer pirkete å få tak i enn artikkeltekst, derfor er artikkel standardvalget. Poenget er uthentingen, ikke kilden.
 
 ### Sånn ser "ferdig" ut
 

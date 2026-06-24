@@ -5,7 +5,7 @@ The skills bundled with this starter pack. **In Claude Cowork they are not picke
 | Skill | Used for |
 |-------|----------|
 | `obsidian-vault` | Core vault conventions (frontmatter, linking, folder layout). Upload this one at minimum. |
-| `youtube-to-note` | Challenge 1: turn a YouTube video into a Learning note. Works by pasting the transcript, no terminal or downloads. |
+| `capture-to-note` | Challenge 1: turn an article (or any pasted text, or a YouTube transcript) into a Learning note. No terminal or downloads. |
 | `skill-creator` | Challenge 2: scaffolding your own skill. Optional. |
 | `brainstorming` | Challenge 2: thinking through what to build. Optional. Sourced from [obra/superpowers](https://github.com/obra/superpowers). |
 
