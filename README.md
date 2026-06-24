@@ -9,7 +9,7 @@ Dette er en **startpakke**, ikke en ferdig app. Du laster den ned, peker Claude 
 - **Claude Pro** (eller annen betalt Claude-plan). Cowork ligger i Claude desktop-appen og krever betalt plan. Gratisversjonen funker ikke.
 - **Obsidian** installert: [obsidian.md](https://obsidian.md) (gratis, ingen konto).
 - **Egen laptop.**
-- (Valgfritt) En YouTube-video du faktisk vil huske. Den bruker vi i øvelse 1.
+- (Valgfritt) Noe å fange: en artikkel du vil huske (eller en YouTube-video). Den bruker vi i øvelse 1.
 
 ## Kom i gang (ca. 5 minutter)
 
@@ -24,7 +24,7 @@ Detaljert oppsett steg for steg: se [`docs/02-bootstrap-obsidian.md`](docs/02-bo
 ## Hva du bygger i dag
 
 - En **kunnskapsbase** i Obsidian med en ryddig startstruktur, som agenten holder konsistent.
-- **Ett ekte notat** fanget live: en YouTube-video gjort om til et strukturert notat med metadata og lenker.
+- **Ett ekte notat** fanget live: en artikkel (eller YouTube-video) gjort om til et strukturert notat med metadata og lenker.
 - **Én egen tilpasning** du lager selv i øvelse 2: en liten "skill" eller en lagret instruks som former agenten til din arbeidsflyt.
 
 ## Står du fast?
