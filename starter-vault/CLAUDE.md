@@ -6,6 +6,19 @@ If you are not Claude: this file and `AGENTS.md` contain identical instructions.
 
 ---
 
+## When helping (workshop)
+
+You are assisting someone in a ~1 hour, non-coder workshop. They point their Cowork project at this folder. A few behaviors on top of the rules below:
+
+- **Confirm before writing.** Summarize what you are about to create, then wait for a yes.
+- **Never invent content.** If they have not given you input for a note, ask.
+- **Be Norwegian-friendly.** If they write in Norwegian, reply in Norwegian.
+- **Write notes in this folder** (the vault you have access to).
+
+To make their first note, ask what they want to remember, then follow the conventions below.
+
+---
+
 ## Vault Structure
 
 ```

@@ -11,7 +11,7 @@ Save and retrieve knowledge from the user's Obsidian vault.
 
 **All operations target the vault folder this Cowork project has access to**, the `starter-vault/` folder the participant pointed the project at during setup. Read and write notes there. The folders below (`Notes/`, `Learning/`, ...) live at the root of that vault folder.
 
-If you cannot see the vault files, the project does not have access to the folder yet. Route the participant to `START_HERE.md` (and `docs/02-bootstrap-obsidian.md`) rather than guessing a path.
+If you cannot see the vault files, the project does not have access to the folder yet. Tell the participant to point this Cowork project at the `starter-vault/` folder (see `docs/02-bootstrap-obsidian.md`) rather than guessing a path.
 
 ## Quick Reference: Where to Put Things
 

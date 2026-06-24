@@ -1,6 +1,6 @@
 # docs/
 
-Workshop-veiledning, lest i denne rekkefølgen når agenten sender deg hit fra `../START_HERE.md`:
+Workshop-veiledning for deg som vil ha mer detaljer enn `../README.md`:
 
 - `02-bootstrap-obsidian.md` , detaljert oppsett (Obsidian + Claude Cowork)
 - `06-challenges.md` , de to øvelsene (Fang og Tilpass)

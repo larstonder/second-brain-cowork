@@ -64,11 +64,11 @@ Skills er knyttet til kontoen din, så dette gjør du bare denne ene gangen, ikk
 
 ## Steg 5: Si fra til agenten
 
-I Cowork-prosjektet, skriv:
+I Cowork-prosjektet, skriv for eksempel:
 
-> *"Les `START_HERE.md` og hjelp meg i gang."*
+> *"Les `CLAUDE.md` i denne mappa, og hjelp meg lage mitt første notat."*
 
-Agenten leser konvensjonene og guider deg videre. Be den gjerne først bekrefte at den forstår mappestrukturen og metadata-reglene.
+Agenten leser konvensjonene (`CLAUDE.md` ligger i vault-mappa) og bruker `obsidian-vault`-skillen, og guider deg videre. Be den gjerne først bekrefte at den forstår mappestrukturen og metadata-reglene.
 
 ---
 
